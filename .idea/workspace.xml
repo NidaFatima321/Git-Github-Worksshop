@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4ecea65-7a6d-478b-b9f6-dcca92ef1544" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="f4ecea65-7a6d-478b-b9f6-dcca92ef1544" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
